@@ -1,22 +1,3 @@
-Skip to content
- 
-Search or jump to…
-
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@cbronzo Sign out
-14
-0 801 learn-co-students/rails-sidekiq-lab-v-000
- Code  Issues 3  Pull requests 809  Projects 0  Insights
-rails-sidekiq-lab-v-000/app/controllers/songs_controller.rb
-@bethurban bethurban Done.
-f3da6f3 20 days ago
-@scottcreynolds @bethurban
-59 lines (45 sloc)  859 Bytes
-    
 class SongsController < ApplicationController
 
   def index
